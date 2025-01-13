@@ -1,1 +1,0 @@
-print("尝试reset --hard命令")
