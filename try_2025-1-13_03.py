@@ -1,0 +1,1 @@
+print("try reset --hard")
