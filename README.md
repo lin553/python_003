@@ -1,3 +1,2 @@
 Python全栈开发教程
-
-这个做为team开发
+共同编程，team programming
