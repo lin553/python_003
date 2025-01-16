@@ -38,4 +38,4 @@ jobs:
       run: |
 # pretest   #原代码是这个测试，但我没有此软件，测不了
         pwd
-        echo yes,这个是在github中actions下自动运行的“CI/CD”，非常有意思的！
+        echo yes,这个是在github中actions下自动运行的“CI/CD”，非常有意思的！ 
