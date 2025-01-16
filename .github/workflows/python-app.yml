@@ -37,4 +37,4 @@ jobs:
     - name: Test with pytest
       run: |
         pwd
-        echo yes,这个是在github中actions下自动运行的“CI/CD”，非常有意思的！ 
+        echo yes,这个是在github中actions下自动运行的“CI/CD”，非常有意思的！原来这里是执行：“pretest”
